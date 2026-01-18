@@ -4,6 +4,7 @@ import java.time.LocalTime;
 import static org.junit.jupiter.api.Assertions.*;
 
 class GreetingServiceTest {
+    // for first commit
 
     @Test
     void greet_defaultWorldWhenNull() {
